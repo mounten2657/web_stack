@@ -320,7 +320,7 @@ return [
             'enable' => true,
         ],
         'login-captcha' => [
-            'enable' => true,
+            'enable' => false,
         ],
         'material-ui' => [
             'enable' => false
