@@ -17,7 +17,8 @@
 克隆代码：
 
 ```shell
-git clone https://gitee.com/mounten2657/web_stack.git
+git clone https://gitee.com/mounten2657/web_stack.git       # 速度快，推荐
+# git clone https://github.com/mounten2657/web_stack.git    # 需要翻墙，不推荐
 ```
 
 安装依赖：
