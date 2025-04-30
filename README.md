@@ -5,6 +5,7 @@
  - 解决 admin 后台反复重定向问题
  - https | http 访问配置化
  - 支持 nginx 反向代理 (重点改造)
+ - 全暗黑风格
 
 一个开源的网址导航网站项目，具备完整的前后台，您可以拿来制作自己的网址导航。
 
@@ -75,6 +76,8 @@ $ php artisan serve
 默认用户：admin
 
 默认密码：admin
+
+![登录](public/screen/05.png)
 
 ![主页](public/screen/02.png)
 
