@@ -15576,6 +15576,7 @@ button.toast-close-button {
     padding: 15px;
     border-radius: 50px;
     padding-top: 22px;
+    border: 1px solid #233a4f;
 }
 
 .xe-widget.xe-conversations .xe-bg-icon {
