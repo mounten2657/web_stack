@@ -2444,7 +2444,7 @@ body.chat-open .user-info-navbar a[data-toggle=chat] {
     display: block;
     padding: 30px 20px;
     color: #979898;
-    border-bottom: 1px solid #bfbab1;
+    border-bottom: 1px solid #444a4d;
     top: 1px;
     z-index: 5;
     text-decoration: none
@@ -25534,7 +25534,7 @@ button.toast-close-button {
     padding: 0px 30px 0px 30px;
     background-color: #1b1a1f;
     border-radius: 4px;
-    border: 1px solid #233a4f;
+    border: 1px solid #333333;
     margin: 20px 0 0 0;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
