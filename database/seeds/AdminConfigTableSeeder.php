@@ -39,7 +39,7 @@ class AdminConfigTableSeeder extends Seeder
             array (
                 'id' => 3,
                 'name' => 'icp_record',
-                'value' => '粤ICP备XXXXXXXXXXXXX号',
+                'value' => '粤ICP备13140521998号',
                 'description' => 'ICP备案号',
                 'created_at' => '2019-08-23 06:06:57',
                 'updated_at' => '2019-08-23 06:06:57',
