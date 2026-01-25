@@ -13,4 +13,3 @@
 
 Route::get('/', 'HomeController@index');
 Route::get('/about', 'HomeController@about');
-Route::get('ui{any?}', function () {return redirect()->to('/clash/ui', 301);})->where('any', '.*');
