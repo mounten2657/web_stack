@@ -20,6 +20,14 @@
                         </a>
                     </li>
                 </ul>
+                <ul class="user-info-menu right-links list-inline list-unstyled">
+                    <li class="hidden-sm hidden-xs">
+                        <a href="/?_dc=1" target="_self" data-toggle="">
+                            <i class="fa-sign-out"></i>
+                            &nbsp;&nbsp;退出登录
+                        </a>
+                    </li>
+                </ul>
             </nav>
 
             @include('layouts.content')
